@@ -93,6 +93,6 @@ _Don't Forget To Give Star To My Repo_`
          }
         }
     }
-    return await GIFTED_MD_PAIR_CODE()
+    return await Elvisstudio_PAIR_CODE()
 });
 module.exports = router
