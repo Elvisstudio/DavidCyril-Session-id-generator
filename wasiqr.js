@@ -59,21 +59,20 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By FEARLESS*
+*_Session Connected By ELVISSTUDIO*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 AMAZING YOU'VE CHOSEN ZENITSU CRASH V2 』*
+║ *『 AMAZING YOU'VE CHOSEN ELVIS NOVA 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@BTSMODZ
-║❒ *Owner:* https://wa.me/2348075952205_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
-║❒ *WaGroup:* _https://chat.whatsapp.com/C3GFThC0tIpGaJY9DFUeCK
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VahusSh0QeaoFzHJCk2x
-║❒ *Plugins:* _https://github.com/Fearless-tech1 
+║❒ *Owner:* https://wa.me/2348148472374_
+║❒ *Repo:* _https://github.com/Elvisstudio/Elvis-Nova_
+║❒ *WaGroup:* _https://chat.whatsapp.com/L9fRmyBh843JMm6l0SM7vG?mode=r_c
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5qpfsGehERlVGvtU2M
+║❒ *Plugins:* _https://github.com/Elvisstudio/Elvis-Nova 
 ╚════════════════════════╝
 _____________________________________
 	
